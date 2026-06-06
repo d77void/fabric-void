@@ -1,6 +1,6 @@
 # Fabric and Caffyne-Shell on Void!
 
-To install the caffyne-shell pkg, you will need to install fabric-cli as well; fabric is not needed beacuse caffyne-shell provides it by default.
+To install the caffyne-shell pkg, you will need to install fabric-cli as well; fabric is not needed because caffyne-shell provides it by default.
 
 After installing caffyne-shell please:
 
