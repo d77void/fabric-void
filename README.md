@@ -8,7 +8,7 @@ After installing caffyne-shell please:
 cp -r /etc/xdg/caffyne-shell ~/.config/
 ```
 
-Now you can run this wayland simple and beautifull shel typing or adding it to your config of Hyprland, Niri or MangoWC.
+Now you can run this wayland simple and beautifull shell typing or adding it to your config of Hyprland, Niri or MangoWC.
 
 ```
 ~/.config/caffyne-shell/./start.sh
